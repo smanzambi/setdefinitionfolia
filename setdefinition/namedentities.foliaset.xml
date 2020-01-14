@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="namedentities" type="closed" xmlns="http://ilk.uvt.nl/folia" conceptlink="http://www.isocat.org/datcat/DC-2275">
     <!-- NOTE: this legacy version is no longer updated, use the TTL version instead! -->
-    <class xml:id="per" label="Person" conceptlink="http://www.isocat.org/datcat/DC-2978" />
-    <class xml:id="org" label="Organisation" conceptlink="http://www.isocat.org/datcat/DC-2979" />
-    <class xml:id="amount" label="Amount" />
-    <class xml:id="date" label="Date" />
-    <class xml:id="cause" label="Cause" />
-    <class xml:id="party" label="Party" />
-    <class xml:id="spec" label="Specification" />
+    <class xml:id="Person" label="Person" conceptlink="http://www.isocat.org/datcat/DC-2978" />
+    <class xml:id="Organisation" label="Organisation" conceptlink="http://www.isocat.org/datcat/DC-2979" />
+    <class xml:id="Amount" label="Amount" />
+    <class xml:id="Date" label="Date" />
+    <class xml:id="Cause" label="Cause" />
+    <class xml:id="Party" label="Party" />
+    <class xml:id="Specification" label="Specification" />
 </set>
